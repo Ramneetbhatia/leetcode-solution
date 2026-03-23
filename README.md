@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

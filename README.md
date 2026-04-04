@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

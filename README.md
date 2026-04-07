@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

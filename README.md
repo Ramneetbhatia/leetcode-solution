@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Ramneetbhatia/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 ## Sorting
